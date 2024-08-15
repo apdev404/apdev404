@@ -1,4 +1,4 @@
-## AGUSTIN POMPONIO
+<h2 align="center">Hola, soy *AGUSTIN POMPONIO*</h2>
 ### Mi nombre es Agustin Ezequiel Pomponio, soy de Buenos Aires, *Argentina*. Actualmente tengo 19 años y estoy cursando mi segundo año en la carrera de *Programacion Informatica* en la *Universidad Nacional de San Martin*
 ### Los lenguajes que mejor manejo son: 
 <ul>
