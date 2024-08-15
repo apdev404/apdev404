@@ -1,5 +1,7 @@
 <h2 align="center">Hola, soy *AGUSTIN POMPONIO*</h2>
-### Mi nombre es Agustin Ezequiel Pomponio, soy de Buenos Aires, *Argentina*. Actualmente tengo 19 años y estoy cursando mi segundo año en la carrera de *Programacion Informatica* en la *Universidad Nacional de San Martin*
+
+<p>Mi nombre es Agustin Ezequiel Pomponio, soy de Buenos Aires, Argentina. Actualmente tengo 19 años y estoy cursando mi segundo año en la carrera de Programacion Informatica en la Universidad Nacional de San Martin</p>
+
 ### Los lenguajes que mejor manejo son: 
 <ul>
         <li><img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" alt=""></li>
