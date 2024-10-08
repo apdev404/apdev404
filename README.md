@@ -3,8 +3,19 @@
 
 <p>Mi nombre es Agustin Ezequiel Pomponio, soy de Buenos Aires, Argentina. Actualmente tengo 19 años y estoy cursando mi segundo año en la carrera de Programacion Informatica en la Universidad Nacional de San Martin</p>
 
-### Tecnologias :computer::    
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,py,arduino,git,github,vscode,linux,windows,ps)](https://skillicons.dev)
+<h3 align="center">Tecnologias 💻:</h3>    
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    
+    [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,py)](https://skillicons.dev)
+
+  </a>
+</p>
+
+<br>
+
+arduino,git,github,vscode,linux,windows,ps
 
 
 ### Redes: 
