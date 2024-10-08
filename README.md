@@ -13,8 +13,10 @@
 
 <br>
 
-arduino,git,github,vscode,linux,windows,ps
-
-
 ### Redes: 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,twitter,instagram,linkedin" alt="Redes">
+  </a>
+</p>
 [![](https://skillicons.dev/icons?i=discord,twitter,instagram,linkedin)](https://skillicons.dev)
