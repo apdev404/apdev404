@@ -19,4 +19,3 @@
     <img src="https://skillicons.dev/icons?i=discord,twitter,instagram,linkedin" alt="Redes">
   </a>
 </p>
-[![](https://skillicons.dev/icons?i=discord,twitter,instagram,linkedin)](https://skillicons.dev)
