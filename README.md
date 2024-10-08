@@ -7,9 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    
-    [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,py)](https://skillicons.dev)
-
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,arduino,git,github,vscode,linux,windows,ps" alt="My Skills">
   </a>
 </p>
 
