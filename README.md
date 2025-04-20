@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/agus_ezequiel04?igsh=MTZqMnBpbW9wOWJ1MA%3D%3D&utm_source=qr">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Redes">
   </a>
-  <a href="https://www.linkedin.com/in/agustin-ezequiel-pomponio-533ba1256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app>
+  <a href="https://www.linkedin.com/in/agustin-ezequiel-pomponio-533ba1256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Redes">
   </a>
 </p>
