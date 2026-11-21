@@ -29,10 +29,10 @@ Mi camino en la tecnología empezó de forma autodidacta, curioso por entender c
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,svelte,ts,js,nodejs,spring,java,kotlin,py,postgres,git,github,vscode,linux,c,cpp,arduino" width="760" alt="React, Svelte, TypeScript, JavaScript, Node.js, Spring, Java, Kotlin, Python, PostgreSQL, Git, GitHub, VS Code, Linux, C, C++ y Arduino, Claude" />
+    <img src="https://skillicons.dev/icons?i=react,svelte,ts,js,nodejs,spring,java,kotlin,py,postgres,git,github,vscode,linux,c,cpp,arduino" width="740" alt="React, Svelte, TypeScript, JavaScript, Node.js, Spring, Java, Kotlin, Python, PostgreSQL, Git, GitHub, VS Code, Linux, C, C++ y Arduino, Claude" />
   </a>
   <a href="https://claude.ai">
-    <img src="https://cdn.simpleicons.org/claude/D97757" width="95" height="95" alt="Claude" />
+    <img src="https://cdn.simpleicons.org/claude/D97757" width="96" height="96" alt="Claude" />
   </a>
 </div>
 
