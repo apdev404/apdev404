@@ -2,7 +2,7 @@
 
 # Agustin Pomponio
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;Node.js+%E2%80%A2+React+%E2%80%A2+Svelte;Spring+Boot+%E2%80%A2+PostgreSQL;Construyendo+cosas+con+c%C3%B3digo" alt="Full Stack Developer · Node.js · React · Svelte · Spring Boot · PostgreSQL" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;Node.js+%E2%80%A2+React+%E2%80%A2+Svelte;Spring+Boot+%E2%80%A2+PostgreSQL" alt="Full Stack Developer · Node.js · React · Svelte · Spring Boot · PostgreSQL" />
 
 📍 Buenos Aires, Argentina · 🇦🇷
 
@@ -29,7 +29,10 @@ Mi camino en la tecnología empezó de forma autodidacta, curioso por entender c
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,svelte,ts,js,nodejs,spring,java,kotlin,py,postgres,git,github,vscode,linux,c,cpp,arduino" width="760" alt="React, Svelte, TypeScript, JavaScript, Node.js, Spring, Java, Kotlin, Python, PostgreSQL, Git, GitHub, VS Code, Linux, C, C++ y Arduino" />
+    <img src="https://skillicons.dev/icons?i=react,svelte,ts,js,nodejs,spring,java,kotlin,py,postgres,git,github,vscode,linux,c,cpp,arduino" width="760" alt="React, Svelte, TypeScript, JavaScript, Node.js, Spring, Java, Kotlin, Python, PostgreSQL, Git, GitHub, VS Code, Linux, C, C++ y Arduino, Claude" />
+  </a>
+  <a href="https://claude.ai">
+    <img src="https://cdn.simpleicons.org/claude/D97757" width="95" height="95" alt="Claude" />
   </a>
 </div>
 
