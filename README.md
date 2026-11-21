@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/124316888?v=4&s=140" width="140" alt="Agustín Pomponio" />
-
 # Agustin Pomponio
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;Node.js+%E2%80%A2+React+%E2%80%A2+Svelte;Spring+Boot+%E2%80%A2+PostgreSQL;Construyendo+cosas+con+c%C3%B3digo" alt="Full Stack Developer · Node.js · React · Svelte · Spring Boot · PostgreSQL" />
