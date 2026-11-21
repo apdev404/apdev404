@@ -6,10 +6,10 @@
 
 📍 Buenos Aires, Argentina · 🇦🇷
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-ezequiel-pomponio-533ba1256/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apdev404)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Zg3BmcS2)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agus_ezequiel04/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/agustin-ezequiel-pomponio-533ba1256/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/apdev404)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/Zg3BmcS2)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/agus_ezequiel04/)
 
 <img src="https://komarev.com/ghpvc/?username=apdev404&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 
@@ -32,7 +32,7 @@ Mi camino en la tecnología empezó de forma autodidacta, curioso por entender c
     <img src="https://skillicons.dev/icons?i=react,svelte,ts,js,nodejs,spring,java,kotlin,py,postgres,git,github,vscode,linux,c,cpp,arduino" width="740" alt="React, Svelte, TypeScript, JavaScript, Node.js, Spring, Java, Kotlin, Python, PostgreSQL, Git, GitHub, VS Code, Linux, C, C++ y Arduino, Claude" />
   </a>
   <a href="https://claude.ai">
-    <img src="https://cdn.jsdelivr.net/gh/apdev404/apdev404@51e67ba/assets/claude.svg" width="93" height="93" alt="Claude" />
+    <img src="https://cdn.jsdelivr.net/gh/apdev404/apdev404@8defef4/assets/claude.svg" width="93" height="93" alt="Claude" />
   </a>
 </div>
 
