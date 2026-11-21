@@ -27,22 +27,22 @@ Mi camino en la tecnología empezó de forma autodidacta, curioso por entender c
 
 ## 💻 Stack
 
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,svelte,ts,js,nodejs,spring,java,kotlin,py,postgres,git,github,vscode,linux,c,cpp,arduino" alt="React, Svelte, TypeScript, JavaScript, Node.js, Spring, Java, Kotlin, Python, PostgreSQL, Git, GitHub, VS Code, Linux, C, C++ y Arduino" />
+    <img src="https://skillicons.dev/icons?i=react,svelte,ts,js,nodejs,spring,java,kotlin,py,postgres,git,github,vscode,linux,c,cpp,arduino" width="760" alt="React, Svelte, TypeScript, JavaScript, Node.js, Spring, Java, Kotlin, Python, PostgreSQL, Git, GitHub, VS Code, Linux, C, C++ y Arduino" />
   </a>
-</p>
+</div>
 
 ## 🚀 Proyectos
 
 <p align="center">
-  <a href="https://github.com/apdev404/APICE-WEB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=apdev404&repo=APICE-WEB&theme=tokyonight" alt="APICE-WEB" /></a>
-  <a href="https://github.com/apdev404/Formula-1-Game-in-Assembly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=apdev404&repo=Formula-1-Game-in-Assembly&theme=tokyonight" alt="Formula-1-Game-in-Assembly" /></a>
+  <a href="https://github.com/apdev404/APICE-WEB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=apdev404&repo=APICE-WEB&theme=tokyonight" width="400" height="120" alt="APICE-WEB" /></a>
+  <a href="https://github.com/apdev404/Formula-1-Game-in-Assembly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=apdev404&repo=Formula-1-Game-in-Assembly&theme=tokyonight" width="400" height="120" alt="Formula-1-Game-in-Assembly" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/apdev404/TaskList-Mobile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=apdev404&repo=TaskList-Mobile&theme=tokyonight" alt="TaskList-Mobile" /></a>
-  <a href="https://github.com/apdev404/freecodecamp-celestial-bodies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=apdev404&repo=freecodecamp-celestial-bodies&theme=tokyonight" alt="freecodecamp-celestial-bodies" /></a>
+  <a href="https://github.com/apdev404/TaskList-Mobile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=apdev404&repo=TaskList-Mobile&theme=tokyonight" width="400" height="120" alt="TaskList-Mobile" /></a>
+  <a href="https://github.com/apdev404/freecodecamp-celestial-bodies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=apdev404&repo=freecodecamp-celestial-bodies&theme=tokyonight" width="400" height="120" alt="freecodecamp-celestial-bodies" /></a>
 </p>
 
 <p align="center">
@@ -52,8 +52,8 @@ Mi camino en la tecnología empezó de forma autodidacta, curioso por entender c
 ## 📊 GitHub en números
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apdev404&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdev404&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apdev404&show_icons=true&theme=tokyonight&hide_border=true" width="400" height="168" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdev404&layout=compact&theme=tokyonight&hide_border=true" width="400" height="168" alt="Lenguajes más usados" />
 </p>
 
 ## 📫 Contacto
