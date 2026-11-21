@@ -29,10 +29,7 @@ Mi camino en la tecnología empezó de forma autodidacta, curioso por entender c
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,svelte,ts,js,nodejs,spring,java,kotlin,py,postgres,git,github,vscode,linux,c,cpp,arduino" width="740" alt="React, Svelte, TypeScript, JavaScript, Node.js, Spring, Java, Kotlin, Python, PostgreSQL, Git, GitHub, VS Code, Linux, C, C++ y Arduino, Claude" />
-  </a>
-  <a href="https://claude.ai">
-    <img src="https://cdn.jsdelivr.net/gh/apdev404/apdev404@8defef4/assets/claude.svg" width="93" height="93" alt="Claude" />
+    <img src="https://skillicons.dev/icons?i=react,svelte,ts,js,nodejs,spring,java,kotlin,py,postgres,git,github,vscode,linux,c,cpp,arduino" width="740" alt="React, Svelte, TypeScript, JavaScript, Node.js, Spring, Java, Kotlin, Python, PostgreSQL, Git, GitHub, VS Code, Linux, C, C++ y Arduino" />
   </a>
 </div>
 
@@ -49,7 +46,7 @@ Mi camino en la tecnología empezó de forma autodidacta, curioso por entender c
 </p>
 
 <p align="center">
-  🌐 <a href="https://apice-web.vercel.app">Demo de APICE-WEB</a> · <a href="https://github.com/apdev404?tab=repositories">Ver todos los repositorios</a>
+  🌐 <a href="https://cedema.online">CEDEMA</a> · <a href="https://github.com/apdev404?tab=repositories">Ver todos los repositorios</a>
 </p>
 
 ## 📊 GitHub en números
